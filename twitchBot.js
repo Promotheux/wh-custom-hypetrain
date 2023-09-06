@@ -12,7 +12,7 @@ const tes = new TES({
     },
     listener: {
         type: "webhook",
-        baseURL: "https://hook-custom-hypetrain.vercell.app",
+        baseURL: "https://hook-custom-hypetrain.vercel.app",
         secret: '2wDENZMxh8b2GG0GW7J8',
     }
 });
